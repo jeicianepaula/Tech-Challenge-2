@@ -3,7 +3,7 @@
 <h1>O problema</h1>
 
 <p>
-    Imagine que você foi escalado para um time de investimentos e precisará realizar um modelo preditivo com dados da IBOVESPA (Bolsa de valores) para criar uma série temporal e prever diariamente o fechamento da base. </p> <p> Para isso utilize a base de dados contida no <a href="https://br.investing.com/indices/bovespa-historical-data" rel="noopener" target="_blank">site da investing</a> e selecione o período “diário”, com o intervalo de tempo que achar adequado. </p> <p> Você precisará demonstrar para o time de investimentos: 
+    Imagine que você foi escalado para um time de investimentos e precisará realizar um modelo preditivo com dados da IBOVESPA (Bolsa de valores) para criar uma série temporal e prever diariamente o fechamento da base. </p> <p> Para isso utilize a base de dados contida no <strong><a href="https://br.investing.com/indices/bovespa-historical-data" rel="noopener" target="_blank">site da investing</a></strong> e selecione o período “diário”, com o intervalo de tempo que achar adequado. </p> <p> Você precisará demonstrar para o time de investimentos: 
 </p>
 
 <ul>
